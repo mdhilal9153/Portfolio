@@ -2,8 +2,8 @@ const projects = [
     {title:"Mock-Mate",
         description: "An AI-powered interview preparation platform built with the MERN stack and Next.js that generates real-time technical questions and provides instant feedback. It leverages AI to simulate realistic interview environments, helping students bridge the gap between learning and placement.",
         techStack:["react","node.js","express","Gemini api","tailwindCSS"],
-        liveUrl:"https://mock-mate-gilt.vercel.app/",
-        githubUrl:"https://github.com/mdhilal9153/mock-mate.git"
+        liveUrl:"",
+        githubUrl:"https://github.com/mdhilal9153/Project01.git"
     },
     {
         title:"CipherSQL Studio",
