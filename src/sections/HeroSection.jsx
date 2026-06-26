@@ -33,7 +33,7 @@ const HeroSection = () => {
             transition={{ duration: 0.8, ease: "easeOut", delay: 0.6 }}>
               <div className='flex justify-center items-center gap-3'>
                 <a href='#projects' className='flex text-black bg-[#e6c364] p-3 font-semibold rounded font-body text-xs md:text-base'>View Projects  <ArrowRight/> </a>
-                <a href='/Resume(Hilal01).pdf' className='flex p-3 font-semibold border border-gray-50 rounded font-body text-xs md:text-base' download>Download Resume <ArrowDownToLine /></a>
+                <a href='/Resume02.pdf' className='flex p-3 font-semibold border border-gray-50 rounded font-body text-xs md:text-base' download>Download Resume <ArrowDownToLine /></a>
               </div>
             </motion.div>
           </div>
